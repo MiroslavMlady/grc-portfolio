@@ -19,6 +19,7 @@ A complete ISMS built the way a real engagement works: a simulated client eviden
 - Internal audit with 2 nonconformities (Clause 9)
 - Management review and closed corrective-action loop — full PDCA cycle (Clauses 9–10)
 - Customer security questionnaire response (proof of value)
+*The ISMS Manager role in this lab represents my perspective as the implementing consultant.
 
 ## 2. DFIR — Phishing / Malware Analysis
 📁 `dfir-investigation-report/`
